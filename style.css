@@ -1,0 +1,111 @@
+
+.Jan {
+}
+
+.Feb {
+}
+
+.Mars {
+}
+
+.April {
+}
+
+.Jan, .Feb, .Mar, .Apr, .May, .Jun, .Jul, .Aug, .Sep, .Oct, .Nov, .Dec{
+    display:inline-block;
+}
+
+.CalJan, .CalFeb, .CalMar, .CalApr, .CalMay, .CalJun, .CalJul, .CalAug, .CalSep, .CalOct, .CalNov, .CalDec {
+    display: inline;
+}
+
+.Hide{
+    display: none;
+}
+
+/*Fortsätt adda månader*/
+
+#calendar {
+}
+
+div, input, label, h3 {
+}
+
+div {
+}
+
+input {
+}
+
+label {
+}
+
+h3 {
+}
+
+body {
+    /* margin: 0 auto; */
+    width: 960px;
+}
+
+.Jan, .Feb, .Mar, .Apr, .Jun, .Jul, .Aug, .Sep, .Oct, .Nov, .Dec {
+    border: 1pt solid lightgrey;
+}
+
+h2 {
+    margin: 0;
+    text-align: center;
+    /* background: crimson; */
+    color: black;
+    font-size: smaller;
+    padding: 0;
+    width: -webkit-fill-available;
+}
+
+h4 {
+    color: white;
+    background: burlywood;
+    width: fit-content;
+    text-align: center;
+}
+
+h3 {
+    font-size: smaller;
+    /* background: coral; */
+    /* border: 1px solid gainsboro; */
+    text-align: center;
+}
+
+.Jan {
+    /* border-radius: 100px/100px; */
+}
+
+    .Jan > * {
+    }
+
+.Jan {
+}
+
+.Jan {
+    /*background: linear-gradient(45deg, rgb(100 200 0 / 0.5), black);*/
+    /* width: -webkit-fill-available; */
+}
+
+.Jan {
+    width: 100;
+    font-style: italic;
+    font-family: sans-serif;
+    font-size: x-small;
+}
+
+input{
+    width: 60px;
+    height: 10px;
+    border: 1px solid black;
+    text-align:center
+}
+
+textarea {
+    width: 100px;
+    height: 100px;
+}
